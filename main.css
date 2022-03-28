@@ -79,13 +79,17 @@ nav ul{
 list-style-type: none;
 }
 
+nav a:hover{
+    background-color: #0E5863;
+}
+
 nav{
     padding: 10px;
-    background-color: #13beec;
+    background-color: #116C7A;
 }
 
 footer{
     padding:10px;
-    background-color:#13BEEC;
+    background-color: #116C7A;
 }
 
